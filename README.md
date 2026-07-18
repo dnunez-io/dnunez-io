@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on io
 - 📫 How to reach me, with email
 - 😄 Pronouns: ... nothing
-- ⚡ Fun fact: ... nothing
+- ⚡ Fun fact: ... nothing.
 
 <!---
 dnunez-io/dnunez-io is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
